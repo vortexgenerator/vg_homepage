@@ -1,0 +1,24 @@
+{
+  "name": "vg_homepage",
+  "version": "1.0.0",
+  "description": "Homepage of Vortexgenerator Co., Ltd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "supervisor"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vortexgenerator/vg_homepage.git"
+  },
+  "author": "smjung_vg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vortexgenerator/vg_homepage/issues"
+  },
+  "homepage": "https://github.com/vortexgenerator/vg_homepage#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "supervisor": "^0.12.0"
+  }
+}
